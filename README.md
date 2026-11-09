@@ -1,5 +1,17 @@
 # @openpcb/shared
 
+> **About this fork.** `couplet-physical-ai/PhiCad-Studio-Shared` is a fork of
+> [OpenPCB-app/shared](https://github.com/OpenPCB-app/shared), maintained by
+> [couplet-physical-ai](https://github.com/couplet-physical-ai). It hosts the `*-studio.N`
+> release branches and tags that [PhiCad-Studio](https://github.com/couplet-physical-ai/PhiCad-Studio)
+> pins; `main` tracks upstream. Upstream code keeps its original AGPL-3.0-or-later license and
+> notices (see [LICENSE](LICENSE) and [NOTICE](NOTICE)); our changes are under the same license.
+> This fork is not affiliated with or endorsed by the OpenPCB project. Fork changes were created at
+> [Exowatt](https://exowatt.com).
+>
+> ![Status: experimental](https://img.shields.io/badge/status-experimental-orange)
+
+
 Shared libraries for the [OpenPCB](https://github.com/OpenPCB-app) ecosystem. Independent npm packages, distributed via GitHub tags.
 
 ## Packages

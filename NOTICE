@@ -1,0 +1,7 @@
+PhiCad-Studio-Shared
+A fork of OpenPCB shared (https://github.com/OpenPCB-app/shared), licensed under the
+GNU Affero General Public License v3.0 or later (see LICENSE). Upstream copyright and
+notices are retained in the source files.
+
+Changes in the *-studio.N release branches and tags: Copyright 2026 Exowatt, Inc.,
+licensed under the same AGPL-3.0-or-later terms.
