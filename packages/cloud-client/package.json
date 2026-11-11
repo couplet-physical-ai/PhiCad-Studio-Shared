@@ -34,7 +34,7 @@
     "directory": "packages/cloud-client"
   },
   "dependencies": {
-    "@openpcb/contracts": "github:OpenPCB-app/shared#contracts-v0.3.0"
+    "@openpcb/contracts": "github:couplet-physical-ai/PhiCad-Studio-Shared#contracts-v0.3.1-studio.2"
   },
   "peerDependencies": {
     "@supabase/supabase-js": "^2.47.0"
