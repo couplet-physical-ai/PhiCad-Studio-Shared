@@ -18,7 +18,7 @@
     "unlink:all": "bash scripts/unlink-all.sh"
   },
   "devDependencies": {
-    "typescript": "^5.8.3",
+    "typescript": "^7.0.2",
     "@types/bun": "^1.3.5"
   }
 }
